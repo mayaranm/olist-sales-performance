@@ -84,7 +84,19 @@ Este projeto analisa um conjunto de dados reais do marketplace brasileiro Olist 
 
 ## 🗂️ Estrutura de Pastas
 
-olist-sales-performance/ │ ├── data/ │ └── raw/ # Dados originais (.csv) │ ├── notebooks/ │ └── 01_analise_olist.ipynb # Notebook principal │ ├── imgs/ │ └── graficos/ # Gráficos salvos para README e LinkedIn │ ├── README.md ├── requirements.txt └── .gitignore
+olist-sales-performance/
+├── data/
+│   └── raw/                      # Dados originais (.csv)
+│
+├── notebooks/
+│   └── 01_analise_olist.ipynb    # Notebook principal
+│
+├── imgs/
+│   └── graficos/                 # Gráficos salvos para README e LinkedIn
+│
+├── README.md                     # Documentação do projeto
+├── requirements.txt              # Lista de bibliotecas utilizadas
+└── .gitignore                    # Arquivos/pastas a serem ignorados pelo Git
 
 
 ---
